@@ -6,95 +6,97 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml
+8-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml
+9-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:6:5-79
-12-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:6:22-76
+12-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:7:5-81
-13-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:7:22-78
+13-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:7:22-78
 14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:6:5-79
-14-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:6:22-76
+14-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:6:5-79
+14-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:6:22-76
 15
 16    <application
-16-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:12:5-28:19
-17        android:allowBackup="true"
-17-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:13:9-35
-18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.7.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c56ab69d1bc5ff60ae7849f5cb12be96\core-1.7.0\AndroidManifest.xml:24:18-86
-19        android:debuggable="true"
-20        android:icon="@mipmap/ic_launcher"
-20-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:14:9-43
-21        android:label="@string/app_name"
-21-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:15:9-41
-22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:16:9-54
-23        android:supportsRtl="true"
-23-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:17:9-35
-24        android:testOnly="true"
-25        android:theme="@style/Theme.My_Application_Decartes" >
-25-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:18:9-61
-26        <activity
-26-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:19:9-27:20
-27            android:name="com.example.my_application_decartes.MainActivity"
-27-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:20:13-41
-28            android:exported="true" >
-28-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:21:13-36
-29            <intent-filter>
-29-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:22:13-26:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:23:17-69
-30-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:23:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:25:17-77
-32-->C:\Users\Dell\Desktop\OrangeLabs\My_Application_Decartes\app\src\main\AndroidManifest.xml:25:27-74
-33            </intent-filter>
-34        </activity>
-35        <activity
-35-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d41b6b64771c8c8ad99182382bad3a4d\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-36            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-36-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d41b6b64771c8c8ad99182382bad3a4d\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-37            android:exported="false"
-37-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d41b6b64771c8c8ad99182382bad3a4d\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-38            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-38-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d41b6b64771c8c8ad99182382bad3a4d\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-39
-40        <meta-data
-40-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\deeca3ec87ebd04ae3d9ef1d563ac339\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-41            android:name="com.google.android.gms.version"
-41-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\deeca3ec87ebd04ae3d9ef1d563ac339\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-42            android:value="@integer/google_play_services_version" />
-42-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\deeca3ec87ebd04ae3d9ef1d563ac339\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-43
-44        <provider
-44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\db143abb87911eadc18fd65273dcceb9\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-45            android:name="androidx.startup.InitializationProvider"
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\db143abb87911eadc18fd65273dcceb9\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-46            android:authorities="com.example.my_application_decartes.androidx-startup"
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\db143abb87911eadc18fd65273dcceb9\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-47            android:exported="false" >
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\db143abb87911eadc18fd65273dcceb9\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-48            <meta-data
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\db143abb87911eadc18fd65273dcceb9\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\db143abb87911eadc18fd65273dcceb9\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-50                android:value="androidx.startup" />
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\db143abb87911eadc18fd65273dcceb9\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-51            <meta-data
-51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11f2e610fcda2da687ff004271bc5598\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11f2e610fcda2da687ff004271bc5598\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-53                android:value="androidx.startup" />
-53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11f2e610fcda2da687ff004271bc5598\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-54        </provider>
-55    </application>
-56
-57</manifest>
+16-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:12:5-29:19
+17        android:name="com.example.my_application_decartes.MainApplication"
+17-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:13:9-40
+18        android:allowBackup="true"
+18-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:14:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0-alpha01] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\461fd28bd89ef097533ab543c8466a1f\core-1.9.0-alpha01\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:15:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:16:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:17:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:18:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.My_Application_Decartes" >
+26-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:19:9-61
+27        <activity
+27-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:20:9-28:20
+28            android:name="com.example.my_application_decartes.MainActivity"
+28-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:21:13-41
+29            android:exported="true" >
+29-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:22:13-36
+30            <intent-filter>
+30-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:24:17-69
+31-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:26:17-77
+33-->C:\Users\pc\AndroidStudioProjects\AirDecartes\app\src\main\AndroidManifest.xml:26:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\c0ef1a4f09a53b4007c468b51d0ad348\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+37            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+37-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\c0ef1a4f09a53b4007c468b51d0ad348\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+38            android:exported="false"
+38-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\c0ef1a4f09a53b4007c468b51d0ad348\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+39            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+39-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\c0ef1a4f09a53b4007c468b51d0ad348\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+40
+41        <meta-data
+41-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\15c2825525da0cd10066b448f2c30af6\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+42            android:name="com.google.android.gms.version"
+42-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\15c2825525da0cd10066b448f2c30af6\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+43            android:value="@integer/google_play_services_version" />
+43-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\15c2825525da0cd10066b448f2c30af6\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\af561363d1c112f2a085e2514822b516\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\af561363d1c112f2a085e2514822b516\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+47            android:authorities="com.example.my_application_decartes.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\af561363d1c112f2a085e2514822b516\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\af561363d1c112f2a085e2514822b516\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\af561363d1c112f2a085e2514822b516\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\af561363d1c112f2a085e2514822b516\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\af561363d1c112f2a085e2514822b516\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\b3e882286dba1159e1007c3e9ca8b0fc\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\b3e882286dba1159e1007c3e9ca8b0fc\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pc\.gradle\caches\transforms-2\files-2.1\b3e882286dba1159e1007c3e9ca8b0fc\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>

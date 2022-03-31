@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dell\\Desktop\\OrangeLabs\\My_Application_Decartes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "C:\\Users\\pc\\AndroidStudioProjects\\AirDecartes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\c56ab69d1bc5ff60ae7849f5cb12be96\\core-1.7.0\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\15c2825525da0cd10066b448f2c30af6\\play-services-basement-18.0.0\\res\\values-be\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "141",
+                        "endOffsets": "336"
                     },
                     "to": {
-                        "startLines": "108",
+                        "startLines": "47",
                         "startColumns": "4",
-                        "startOffsets": "9863",
-                        "endColumns": "100",
-                        "endOffsets": "9959"
+                        "startOffsets": "4499",
+                        "endColumns": "145",
+                        "endOffsets": "4640"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\d41b6b64771c8c8ad99182382bad3a4d\\play-services-base-18.0.1\\res\\values-be\\values.xml",
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\c0ef1a4f09a53b4007c468b51d0ad348\\play-services-base-18.0.1\\res\\values-be\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\60ca376e6b08eacfd0ece72533ff5823\\appcompat-1.4.0\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\60b8377a0090921d76380afe05404535\\appcompat-1.4.0\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\0afbca5d75ed49db5552569b9dce4707\\material-1.4.0\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\04158e4144dadbea4527bca55afe3fa3\\material-1.4.0\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,20 +74,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\deeca3ec87ebd04ae3d9ef1d563ac339\\play-services-basement-18.0.0\\res\\values-be\\values.xml",
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\461fd28bd89ef097533ab543c8466a1f\\core-1.9.0-alpha01\\res\\values-be\\values-be.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "141",
-                        "endOffsets": "336"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "47",
+                        "startLines": "108",
                         "startColumns": "4",
-                        "startOffsets": "4499",
-                        "endColumns": "145",
-                        "endOffsets": "4640"
+                        "startOffsets": "9863",
+                        "endColumns": "100",
+                        "endOffsets": "9959"
                     }
                 }
             ]

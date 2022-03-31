@@ -1,8 +1,9 @@
 package com.example.my_application_decartes;
-
+import java.time.LocalDateTime;
+import java.time.temporal.ChronoField;
 public class TauxPollution {
 
-    private int id;
+    //private int id;
     private int codecapteur;
     private String capteurfullname;
     private String dimension ;
@@ -23,9 +24,9 @@ public class TauxPollution {
     private int  minuteobservation ;
 
     //Getters
-    public int getId() {
-        return id;
-    }
+    //public int getId() {
+        //return id;
+    //}
 
     public int getCodecapteur() {
         return codecapteur;
@@ -101,9 +102,9 @@ public class TauxPollution {
 
     //Setters
 
-    public void setId(int id) {
-        this.id = id;
-    }
+   //public void setId(int id) {
+       // this.id = id;
+    //}
 
     public void setCodecapteur(int codecapteur) {
         this.codecapteur = codecapteur;
@@ -183,7 +184,7 @@ public class TauxPollution {
     @Override
     public String toString() {
         return "TauxPollution{" +
-                "id=" + id +
+                //"id=" + id +
                 ", codecapteur=" + codecapteur +
                 ", capteurfullname='" + capteurfullname + '\'' +
                 ", dimension='" + dimension + '\'' +

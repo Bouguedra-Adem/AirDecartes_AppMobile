@@ -1,10 +1,17 @@
-com/example/my_application_decartes/MainActivity.java
- com.example.my_application_decartes.MainActivity
- com.example.my_application_decartes.MainActivity$1
- com.example.my_application_decartes.MainActivity$1$1
- com.example.my_application_decartes.MainActivity$2
- com.example.my_application_decartes.MainActivity$3
+com/example/my_application_decartes/RetrofitAPI.java
+ com.example.my_application_decartes.RetrofitAPI
 com/example/my_application_decartes/BuildConfig.java
  com.example.my_application_decartes.BuildConfig
 com/example/my_application_decartes/TauxPollution.java
  com.example.my_application_decartes.TauxPollution
+com/example/my_application_decartes/MainActivity.java
+ com.example.my_application_decartes.MainActivity
+ com.example.my_application_decartes.MainActivity$1
+ com.example.my_application_decartes.MainActivity$1$1
+ com.example.my_application_decartes.MainActivity$1$2
+ com.example.my_application_decartes.MainActivity$2
+ com.example.my_application_decartes.MainActivity$3
+com/example/my_application_decartes/ApiManager.java
+ com.example.my_application_decartes.ApiManager
+com/example/my_application_decartes/MainApplication.java
+ com.example.my_application_decartes.MainApplication
